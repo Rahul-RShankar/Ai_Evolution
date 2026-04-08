@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ai_evolution
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: flask
+Requires-Dist: flask-cors
+Requires-Dist: ddgs
+Dynamic: requires-dist
