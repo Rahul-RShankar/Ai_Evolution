@@ -1,0 +1,12 @@
+AGI capabilities and further development:
+its doing search 
+its presenting coding examples
+its using ddgs search engine for searches but ithink its not fully llm optimized
+need to add more agents for specific tasks(cooking,teaching,coding,video editing,
+image editing,audio editing,pdf editing,ppt editing,doc editing,sheet editing,code editing,etc)
+need to add more tools for specific tasks(sheet,doc,pdf,ppt,image,video,audio,)
+need to add more data for specific tasks
+need to add more models for specific tasks(gemini,gpt,claude,llama,mistral,etc)
+need to build the ai frontend for chat,image,video,audio,pdf,ppt,doc,sheet,code,etc
+need to visualize the data in the form of charts,graphs,tables,etc
+need to add more features for specific tasks(progress, stats, task que,)
